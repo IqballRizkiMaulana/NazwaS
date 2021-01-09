@@ -11,11 +11,12 @@ Connect with me :
 
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-___
+
+---
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
 
-___
+---
 
 
 Wanna Hide Me ?
@@ -25,8 +26,12 @@ Contact : nazwa.salsa67.bila@gmail.com
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 Donate Me On:
 
-* [`Saweria`](https://saweria.co/NazwaS)
+* [`Saweria`](https://saweria.co/nazwas)
+* [`Trakteer`](https://trakteer.id/nazwas)
 
+<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/donate.png" width="148">
+
+---
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
 
 ## Special
