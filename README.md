@@ -34,6 +34,6 @@ Donate Me On:
 ---
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/kawaii.gif">
 
-## Special
+## Stats
 
 <a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
