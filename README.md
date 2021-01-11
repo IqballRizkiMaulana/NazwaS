@@ -37,3 +37,4 @@ Donate Me On:
 ## Stats
 
 <a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
+<a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazwaS&theme=highcontrast&layout=compact"></a>
