@@ -36,4 +36,4 @@ Donate Me On:
 
 ## Special
 
-<a href="https://github.com/ERROR404/ERROR404"><img src="https://img.shields.io/badge/-NOTHING%20TO%20SEE%20HERE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NazwaS"><img src="https://github-readme-stats.vercel.app/api?username=NazwaS&show_icons=true&theme=radical"></a>
